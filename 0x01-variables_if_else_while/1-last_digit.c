@@ -3,7 +3,7 @@
 #include <stdlib.h>
 
 /**
- *main - printf if a number is positive,negative or zero 
+ *main -  printf the last digit of the number stored in the variable 
  * Return: Always 0 (Success)
  *
  */
@@ -30,5 +30,6 @@ int main(void)
 	printf("Last digit of %d is %d and is less than 6 and not 0\n", n, lastd);
 	}
 	return (0);
+
 }
 
