@@ -1,6 +1,6 @@
 #include "main.h"
 
-/** 
+/**
  * print_diagonal - draws a diagonal lines according parameter
  * @n: the number of times to print diagonal lines
  * Return: empty
@@ -24,7 +24,7 @@ void print_diagonal(int n)
 	_putchar(32);
 	}
 	_putchar(92);
-	_putchra('\n');
+	_putchar('\n');
 	}
 	}
 
