@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * free_grid - frees a 2 dimensional grid previously created
+ * free_grid - free  2 dimensional grid previously created.
  * @grid: dimensional grid number 1
  * @height: dimensional grid number 2
  * Return: the 2 dimensional.
